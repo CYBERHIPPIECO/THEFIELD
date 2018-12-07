@@ -1,7 +1,7 @@
 ![Project Banner](/assets/template_visuals/temp-banner.png)
 
 <a name="intro"></a>
-# THEFIELD - NARRATIVE VR GAME
+# THE FIELD - NARRATIVE VR GAME
 Description.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
